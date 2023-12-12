@@ -86,4 +86,5 @@ ul, form {
 
 .custom-testing {
   text-decoration: line-through;
+  text-decoration-color: red;
 }
